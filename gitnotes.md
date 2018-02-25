@@ -22,4 +22,6 @@ $$f(x) = x^2$$
 
 NOw what...
 
-Hi again. 
+Hi again. It's Sunday today. Still Sunday.
+
+* `get diff`: shows changes not yet tracked
